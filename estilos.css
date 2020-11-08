@@ -1,0 +1,10 @@
+.menu li {
+list-style-type: none;
+border: 1px solid black;
+padding: 5px;
+font: bold 14px verdana;
+display: inline-block;
+}
+div {
+    background: aliceblue;
+}
